@@ -17,6 +17,8 @@
 			<string>active</string>
 			<key>defaults</key>
 			<string>com.straitiff.windowplaner</string>
+			<key>PostNotification</key>
+			<string>com.straitiff.windowplaner.settingschange</string>
 		</dict>
 		<dict>
 			<key>cell</key>
@@ -41,6 +43,8 @@
 			<string>size</string>
 			<key>defaults</key>
 			<string>com.straitiff.windowplaner</string>
+			<key>PostNotification</key>
+			<string>com.straitiff.windowplaner.settingschange</string>
 		</dict>
 		<dict>
 			<key>cell</key>
@@ -53,6 +57,8 @@
 			<string>pre</string>
 			<key>defaults</key>
 			<string>com.straitiff.windowplaner</string>
+			<key>PostNotification</key>
+			<string>com.straitiff.windowplaner.settingschange</string>
 		</dict>
 		<dict>
 			<key>cell</key>
